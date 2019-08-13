@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
     <RootNamespace>pipelines_dotnet_core</RootNamespace>
+    <UserSecretsId>aad57e18-34ea-4aed-8e90-52c2d9b44536</UserSecretsId>
   </PropertyGroup>
 
 
